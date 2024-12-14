@@ -18,6 +18,7 @@ The primary objective is to identify trends, uncover key business insights, and 
 
 The project focuses on analyzing data from food orders, cooking sessions, and user demographics to understand patterns in customer behavior. Key analyses include the most popular dishes, order distribution by age group, and geographical ordering trends. These insights are valuable for businesses to enhance their marketing strategies and operational planning.
 
+
 ### Data Sources
 
 The primary datasets used in this analysis are:
@@ -79,6 +80,22 @@ Orders by Location
  - High-order volumes are observed in urban and densely populated areas, suggesting the need to focus marketing and service expansion efforts in these regions.
 Distribution of Orders by Age Group
  - Customers aged 26-50 drive the majority of sales, making them the key demographic for targeted campaigns and loyalty programs.
+
+![Screenshot 2024-12-14 193509](https://github.com/user-attachments/assets/c920c80c-fb3d-4cc2-9efc-0c0c3891b0e4)
+
+![Screenshot 2024-12-14 193702](https://github.com/user-attachments/assets/c49829f9-149b-4eac-82c6-1957843334e9)
+
+
+![Screenshot 2024-12-14 193548](https://github.com/user-attachments/assets/380cb6bc-90f1-4226-962f-190b5b76af28)
+
+![Screenshot 2024-12-14 194712](https://github.com/user-attachments/assets/93d7f6e6-b284-4b63-b9f6-566252790361)
+
+![Screenshot 2024-12-14 193645](https://github.com/user-attachments/assets/33824563-1253-4ca9-a97f-cbbc3d1f2597)
+
+
+
+
+
 
 ### Recommendations
 
